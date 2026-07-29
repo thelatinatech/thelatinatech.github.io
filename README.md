@@ -4,84 +4,53 @@ permalink: "/about/"
 layout: page
 ---
 
-## Github Pages
+## Hi, I'm Alex 👋
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) to `your_username.github.io` and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+I'm a senior intelligence analyst turning automation engineer, writer, and lifelong learner who enjoys building better systems and making complex technology easier to understand.
 
-## Features
+---
 
- - dark mode
- - [KaTeX](https://katex.org) included
- - no external ressources
- - optional sidebar
- - archive page
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+## What You'll Find Here
 
-## Installation
+This is where I document what I'm building, what I'm learning, and the ideas I'm exploring along the way.
 
-To run locally [install Ruby](https://www.ruby-lang.org/en/documentation/installation/) and then run:
+- 🤖 AI and automation
+- 💻 Software development and technical projects
+- 🧠 Knowledge management and continuous learning
+- 🏢 Working in enterprise technology
+- 📈 Career growth and leadership
+- ✍️ Essays on technology, systems thinking, and the future of work
 
-```
-git clone https://github.com/niklasbuschmann/contrast.git
-cd contrast
-gem install bundler jekyll jekyll-feed
-bundle exec jekyll serve
-```
+---
 
-## Config
+## Why "The Latina Tech"?
 
-Your `_config.yml` could for example look like this:
+The name reflects where this journey began.
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+I started The Latina Tech in 2020 during the pandemic as a creative outlet to document my experience breaking into tech as a first-generation Mexican-American professional.
 
-# Layout
+While the topics have evolved (from cybersecurity to AI, automation, and engineering) the mission hasn't changed. I still believe the tech world should be approachable to all, and I hope this space encourages people to stay curious, keep building, and never stop learning.
 
-show_excerpts: true             # show article excerpts instead of archive list on the home page
-show_frame: true                # display a grey frame on large screens
-show_sidebar: false             # show a sidebar instead of the usual header
-show_minimal: false             # remove all clutter
+---
 
-# Menu                          # for available icons see https://fontawesome.com/v5/icons/
+## Beyond the Screen
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+When I'm not working or building side projects, you'll probably find me:
 
-external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+✈️ Planning my next adventure
+🏃 Training for a race
+🍜 Hunting down great local restaurants
+📚 Reading everything from tech to mystery novels
+🎵 Building playlists for every mood
 
-comments:
-#  disqus_shortname: ""         # see https://disqus.com
-#  isso_domain: ""              # see https://isso-comments.de
+I'm endlessly curious, and that's probably the thread that connects everything I do.
 
-plugins:
- - jekyll-feed
-```
+---
 
-## Math
+## Let's Connect
 
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter. [Jektex](https://github.com/yagarea/jektex) can be used to pre-render math on the server side.
+If something here sparks an idea, answers a question, or simply makes technology feel a little more approachable, then this blog has done its job.
 
-## License
+And if you're building something interesting, I'd love to hear about it ◡̈ 
 
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://github.com/user-attachments/assets/8f0ef4bc-f079-495e-8c31-5867b8ccd25c)
-
-![screenshot](https://github.com/user-attachments/assets/e5e6d189-3251-41f4-baba-ff42be65f666)
-
-![screenshot](https://github.com/user-attachments/assets/d31879ae-7113-42be-b580-1e96a2aedd29)
-
-![screenshot](https://github.com/user-attachments/assets/d524ce47-8d8c-473e-afc6-79b34fae63e8)
+Thanks for stopping by!
