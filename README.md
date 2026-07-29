@@ -6,7 +6,7 @@ layout: page
 
 ## Hi, I'm Alex 👋
 
-I'm a senior intelligence analyst turning automation engineer, writer, and lifelong learner who enjoys building better systems and making complex technology easier to understand.
+I'm a senior intelligence analyst turning automation engineer, writer, and lifelong learner who enjoys building better systems and making complex concepts easier to understand.
 
 ---
 
@@ -19,7 +19,7 @@ This is where I document what I'm building, what I'm learning, and the ideas I'm
 - 🧠 Knowledge management and continuous learning
 - 🏢 Working in enterprise technology
 - 📈 Career growth and leadership
-- ✍️ Essays on technology, systems thinking, and the future of work
+- ✍️ Essays on tech, systems thinking, and the future of work
 
 ---
 
@@ -37,11 +37,11 @@ While the topics have evolved (from cybersecurity to AI, automation, and enginee
 
 When I'm not working or building side projects, you'll probably find me:
 
-✈️ Planning my next adventure
-🏃 Training for a race
-🍜 Hunting down great local restaurants
-📚 Reading everything from tech to mystery novels
-🎵 Building playlists for every mood
+- ✈️ Planning my next adventure
+- 🏃 Training for a race
+- 🍜 Hunting down great local restaurants
+- 📚 Reading everything from tech to mystery novels
+- 🎵 Building playlists for every mood
 
 I'm endlessly curious, and that's probably the thread that connects everything I do.
 
