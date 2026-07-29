@@ -2,9 +2,10 @@
 title: "Solving a Murder (with SQL)"
 layout: post
 ---
-# Solving a Murder (with SQL)
+A murder. A handful of clues. A database full of suspects. Follow along as I use SQL to unravel the mystery while exploring the beginner-friendly concepts that make this challenge such a fun way to learn.
 
-One of the most enjoyable ways to learn SQL is by solving real problems instead of memorizing syntax. The **SQL Murder Mystery** does exactly that—it turns a SQL lesson into a detective game where every clue requires another query.
+
+One of the most enjoyable ways to learn SQL is by solving real problems instead of memorizing syntax. The **SQL Murder Mystery** does exactly that - it turns a SQL lesson into a detective game where every clue requires another query.
 
 Instead of relying on the provided database diagram, I challenged myself to investigate using only SQL. Whenever I needed to understand the database, I explored it directly through queries.
 
