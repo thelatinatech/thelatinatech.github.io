@@ -1,17 +1,16 @@
-title: "The Latina Tech"
-author: "Alex Gomez"
-description: "My blog"
+title: "The Latina Tech" # tab title
+author: "Alex Gomez" # name appearing at the top of header
+description: "© 2020-2026 Alex Gomez" #text for footer
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
-
 show_excerpts: true             # show article excerpts instead of archive list on the home page
 show_frame: true                # display a grey frame on large screens
 show_sidebar: false             # show a sidebar instead of the usual header
-show_minimal: false             # remove all clutter
+show_minimal: false             # use a dark header
 
 #show_frame: "/assets/images/background.svg"
 
@@ -23,6 +22,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:thelatinatech@gmail.com"}
+  - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/imalexandragomez/"}
   - {title: Github, icon: github, url: "https://github.com/thelatinatech/"}
   - {title: Wordpress, icon: wordpress, url: "https://thelatinatech.com"}
 
