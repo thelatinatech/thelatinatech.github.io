@@ -52,11 +52,11 @@ Always review the logic, test security assumptions, and validate the functionali
 
 Here’s why vibe coding is gaining serious traction:
 
-✅ Rapid Prototyping: Go from idea to functioning demo in hours
-✅ Agile by Nature: Perfect for iteration-heavy workflows
-✅ Cost-Effective: Fewer resources needed to build MVPs
-✅ Accessible: Opens up coding to non-programmers and creatives
-✅ Innovation-Driven: Lowers the barrier to experimentation
+- ✅ Rapid Prototyping: Go from idea to functioning demo in hours
+- ✅ Agile by Nature: Perfect for iteration-heavy workflows
+- ✅ Cost-Effective: Fewer resources needed to build MVPs
+- ✅ Accessible: Opens up coding to non-programmers and creatives
+- ✅ Innovation-Driven: Lowers the barrier to experimentation
 
 Whether you’re a startup founder, solo maker, or just curious, vibe coding is a force multiplier.
 
@@ -64,11 +64,11 @@ But It’s Not All Perfect…
 
 Like anything new, there are trade-offs. 
 
-⚠️ Struggles with complex logic: AI can get tripped up on advanced use cases
-⚠️ Code quality varies: Outputs may be messy or inefficient
-⚠️ Debugging is harder: Tracing AI logic can be opaque
-⚠️ Maintenance pain: Updates and refactoring aren't always clean
-⚠️ Security concerns: You still need to validate and sanitize all inputs
+- ⚠️ Struggles with complex logic: AI can get tripped up on advanced use cases
+- ⚠️ Code quality varies: Outputs may be messy or inefficient
+- ⚠️ Debugging is harder: Tracing AI logic can be opaque
+- ⚠️ Maintenance pain: Updates and refactoring aren't always clean
+- ⚠️ Security concerns: You still need to validate and sanitize all inputs
 
 The key? 
 Pair AI-generated code with your own expertise and oversight.

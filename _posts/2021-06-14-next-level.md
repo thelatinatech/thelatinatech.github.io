@@ -35,7 +35,7 @@ Ask yourself:
 
 - Update your elevator pitch, email signatures, bios, AND
 
-- Make sure your [LinkedIn](/thelatinatech.github.io/_posts/2020-10-09-linkedin-101.md) profile and professional presence reflect the skills, experiences, and goals you want others to associate with you. 
+- Make sure your [LinkedIn](https://thelatinatech.github.io/linkedin-101/) profile and professional presence reflect the skills, experiences, and goals you want others to associate with you. 
 
 ## Communicate Your Impact
 
