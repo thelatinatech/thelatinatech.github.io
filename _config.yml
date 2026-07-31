@@ -21,10 +21,10 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:thelatinatech@gmail.com"}
+  - {title: Instagram, icon: instagram, url: "https://instagram.com/thelatinatech/"}
   - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/imalexandragomez/"}
   - {title: Github, icon: github, url: "https://github.com/thelatinatech/"}
-  - {title: Wordpress, icon: wordpress, url: "https://thelatinatech.com"}
+#  - {title: Wordpress, icon: wordpress, url: "https://thelatinatech.com"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
