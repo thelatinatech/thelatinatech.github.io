@@ -13,11 +13,11 @@
 
 {{ content }}
 
-{%- if site.footer -%}
+{% if site.external %}
 <footer class="hover">
-  <div>{{ site.description }}</div>
-  {% include menu.html menu=site.footer %}
+  <div>{{ site.description | default: site.title }}</div>
+  {% include menu.html menu=site.external %}
 </footer>
-{%- endif -%}
+{% endif %}
 
 </html>
