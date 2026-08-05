@@ -2,7 +2,7 @@
 title: "DoraDao - Day 2 - The Human Behind AI"
 layout: post
 ---
-# The Human Behind AI: The Reminder I Needed to Stop Waiting Until I’m Ready
+This is your reminder to stop waiting until you're ready.
 
 
 One of my favorite things about technology is that behind every tool, feature, and product is a human story. We often talk about AI through the lens of models, capabilities, benchmarks, and the latest breakthroughs, but sometimes the most interesting part isn’t the technology. It’s the person who decided to build it.
