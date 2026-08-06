@@ -1,8 +1,8 @@
 ---
-title: "DoraDao - Day 6 - Creating an AI Film; From an Idea to a Finished Cinematic Clip"
+title: "DoraDao - Day 6 - From an Idea to a Finished Cinematic Clip"
 layout: post
 ---
-In creating an AI film, it turns out the hard part isn't working with AI, it's telling a good story.
+In today's session: Creating an AI Film, it turns out the hard part isn't working with AI, it's telling a good story.
 
 
 When I saw this session about AI filmmaking, I expected to leave with a list of prompts and tools. Instead I left again thinking about storytelling.
