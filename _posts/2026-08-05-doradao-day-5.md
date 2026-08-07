@@ -36,5 +36,5 @@ Whether you're making a film, designing an app, writing a blog post, or building
 ✨ Don't wait to become "a creator." Start telling stories today, exactly where you are.
 
 
-This session reminded me that no matter how technical my career becomes, I never want to lose sight of the human on the other side of the screen. Because people rarely remember the feature you built, but they'll remember how you made them feel.
+This session reminded me that no matter how technical my career becomes, I never want to lose sight of the human on the other side of the screen. Because people rarely remember the feature you built, but they'll remember how you made them feel. 
 

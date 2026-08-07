@@ -52,4 +52,4 @@ Einat shared that she's currently vibe coding an app herself, even without knowi
 ✨ Stop generating. Start directing.
 ✨ Failure isn't a dead end; Failure is feedback pointing you toward the next iteration.
 
-I will say, I came into this fellowship hoping to learn to create apps with AI, but I'm realizing I'm also learning how to become a better creator.
+I will say, I came into this fellowship hoping to learn to create apps with AI, but I'm realizing I'm also learning how to become a better creator. 
